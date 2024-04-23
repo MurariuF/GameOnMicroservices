@@ -31,3 +31,4 @@ F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\obj\Debug\ne
 F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.pdb
 F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.genruntimeconfig.cache
 F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\ref\Play.Catalog.Service.dll
+F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.sourcelink.json
