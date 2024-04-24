@@ -3,20 +3,19 @@ using MongoDB.Driver;
 using Play.Catalog.Service.Entities;
 using System.Threading.Tasks;
 using System;
+using System.Diagnostics;
 
 namespace Play.Catalog.Service.Repositories
 {
-    public class ItemsRepository
+    public class ItemsRepository : IItemsRepository
     {
         private const string collectionName = "items";
         private readonly IMongoCollection<Item> dbCollection;
         private readonly FilterDefinitionBuilder<Item> filterBuilder = Builders<Item>.Filter;
 
-        public ItemsRepository()
+        public ItemsRepository(IMongoDatabase database)
         {
-            var mongoClient = new MongoClient("mongodb://localhost:27017");
-            var database = mongoClient.GetDatabase("Catalog");
-            dbCollection.Database.GetCollection<Item>(collectionName);
+            dbCollection = database.GetCollection<Item>(collectionName);
         }
 
         public async Task<IReadOnlyCollection<Item>> GetAllAsync()
@@ -55,6 +54,11 @@ namespace Play.Catalog.Service.Repositories
         {
             FilterDefinition<Item> filter = filterBuilder.Eq(entity => entity.Id, id);
             await dbCollection.DeleteOneAsync(filter);
+        }
+
+        private string GetDebuggerDisplay()
+        {
+            return ToString();
         }
     }
 }
