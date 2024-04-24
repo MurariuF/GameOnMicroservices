@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projects\\MicroservicesGame\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {}
+    "f:\\Projects\\MicroservicesGame\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {}
   },
   "projects": {
-    "F:\\Projects\\MicroservicesGame\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {
+    "f:\\Projects\\MicroservicesGame\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\MicroservicesGame\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+        "projectUniqueName": "f:\\Projects\\MicroservicesGame\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
         "projectName": "Play.Catalog.Service",
-        "projectPath": "F:\\Projects\\MicroservicesGame\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+        "projectPath": "f:\\Projects\\MicroservicesGame\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
         "packagesPath": "C:\\Users\\Flavius M\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\MicroservicesGame\\Play.Catalog\\src\\Play.Catalog.Service\\obj\\",
+        "outputPath": "f:\\Projects\\MicroservicesGame\\Play.Catalog\\src\\Play.Catalog.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "F:\\Projects\\MicroservicesGame\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -49,9 +50,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "MongoDb.Driver": {
+            "Play.Common": {
               "target": "Package",
-              "version": "[2.25.0, )"
+              "version": "[1.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

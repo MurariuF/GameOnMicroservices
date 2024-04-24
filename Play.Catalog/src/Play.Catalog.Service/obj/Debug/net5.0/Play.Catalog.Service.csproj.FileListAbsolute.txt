@@ -45,3 +45,11 @@ f:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\ne
 f:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
 f:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
 f:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Common.dll
+F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
