@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Zd2BTfHKOekj4DWKm5BQu6f8dR50HWW1KkOu0Wt7ExiDL+LSnBCkPFk2DYzJBuZLVKtyOdRlKp6ycGB63wqLQ==",
+  "dgSpecHash": "a87fCJNAsDUBQtXvH9wHNRZPJRqb54RlEWHMtjoJNs59L4BI+ggTspaK6Ciyuuq/ulADYc2jU+yOgM610A7PdQ==",
   "success": true,
-  "projectFilePath": "f:\\Projects\\MicroservicesGame\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+  "projectFilePath": "F:\\Projects\\MicroservicesGame\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Flavius M\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Flavius M\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

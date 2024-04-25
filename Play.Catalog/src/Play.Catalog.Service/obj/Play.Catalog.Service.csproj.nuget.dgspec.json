@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\Projects\\MicroservicesGame\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {}
+    "F:\\Projects\\MicroservicesGame\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {}
   },
   "projects": {
-    "f:\\Projects\\MicroservicesGame\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {
+    "F:\\Projects\\MicroservicesGame\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\Projects\\MicroservicesGame\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+        "projectUniqueName": "F:\\Projects\\MicroservicesGame\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
         "projectName": "Play.Catalog.Service",
-        "projectPath": "f:\\Projects\\MicroservicesGame\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+        "projectPath": "F:\\Projects\\MicroservicesGame\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
         "packagesPath": "C:\\Users\\Flavius M\\.nuget\\packages\\",
-        "outputPath": "f:\\Projects\\MicroservicesGame\\Play.Catalog\\src\\Play.Catalog.Service\\obj\\",
+        "outputPath": "F:\\Projects\\MicroservicesGame\\Play.Catalog\\src\\Play.Catalog.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
