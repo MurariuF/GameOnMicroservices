@@ -53,3 +53,17 @@ F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\ne
 F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Common.dll
 F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Automatonymous.dll
+F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\GreenPipes.dll
+F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MassTransit.dll
+F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MassTransit.AspNetCoreIntegration.dll
+F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MassTransit.RabbitMqTransport.dll
+F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\NewId.dll
+F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\RabbitMQ.Client.dll
+F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\System.Text.Json.dll
+F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Contracts.dll
+F:\Projects\MicroservicesGame\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Contracts.pdb
