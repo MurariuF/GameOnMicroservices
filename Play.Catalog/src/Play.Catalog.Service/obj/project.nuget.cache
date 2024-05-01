@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "F23ttyLqGKuFp1djmwTqW+FS5fCq8hWHWiZIyj8WpsA+t7B3+UMJQQ+xrSaCi6nQVOGlz1TYqbCHZ8ei19+oOw==",
+  "dgSpecHash": "IcQl+C/Qxonmuc8VkZJPO/R8iLyRaeE7RHpd3t4nys+vrX3xHU0Z46U/fBi3U6J2XJIbeUrdKhmV1v5gL6Vm7Q==",
   "success": true,
   "projectFilePath": "F:\\Projects\\MicroservicesGame\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
   "expectedPackageFiles": [
@@ -38,7 +38,7 @@
     "C:\\Users\\Flavius M\\.nuget\\packages\\newid\\3.0.3\\newid.3.0.3.nupkg.sha512",
     "C:\\Users\\Flavius M\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
     "C:\\Users\\Flavius M\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
-    "C:\\Users\\Flavius M\\.nuget\\packages\\play.common\\1.0.1\\play.common.1.0.1.nupkg.sha512",
+    "C:\\Users\\Flavius M\\.nuget\\packages\\play.common\\1.0.2\\play.common.1.0.2.nupkg.sha512",
     "C:\\Users\\Flavius M\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
     "C:\\Users\\Flavius M\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
     "C:\\Users\\Flavius M\\.nuget\\packages\\snappier\\1.0.0\\snappier.1.0.0.nupkg.sha512",
@@ -58,7 +58,8 @@
     "C:\\Users\\Flavius M\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512",
     "C:\\Users\\Flavius M\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
     "C:\\Users\\Flavius M\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
-    "C:\\Users\\Flavius M\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512"
+    "C:\\Users\\Flavius M\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512",
+    "C:\\Users\\Flavius M\\.nuget\\packages\\play.catalog.contracts\\1.0.0\\play.catalog.contracts.1.0.0.nupkg.sha512"
   ],
   "logs": []
 }
