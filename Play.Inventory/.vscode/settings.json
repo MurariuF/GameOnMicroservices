@@ -1,3 +1,5 @@
 {
-  "dotnet.server.useOmnisharp": true
+  "dotnet.server.useOmnisharp": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true
 }
